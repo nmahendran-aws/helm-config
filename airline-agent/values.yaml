@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: airline-agent
+  repository: purchaseapp-e7cfe9fufpcjf8e3.azurecr.io/airline-agent
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
